@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **javascript full stack web development,Software Engineering and Introduction to Computer Science**
 
-- 👨‍💻 All of my projects are available at [github.com/joeblinx39](github.com/joeblinx39)
+- 👨‍💻 All of my projects are available at <a href="https:github.com/joeblinx39">github.com/joeblinx39</a>
 
 - 💬 Ask me about **HTML, Django**
 
