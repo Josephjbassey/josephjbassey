@@ -22,6 +22,8 @@
 <a href="https://twitter.com/josephjbassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josephjbassey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josephjbassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephjbassey" height="30" width="40" /></a>
 <a href="https://instagram.com/josephjbassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephjbassey" height="30" width="40" /></a>
+  <h4 align="left">Link to my personal github account containing personal projects</h4>
+<a href="https://github.com/joeblinx39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="joeblinx39" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
