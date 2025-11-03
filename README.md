@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/josephjbassey" target="blank"><img src="https://img.shields.io/twitter/follow/josephjbassey?logo=twitter&style=for-the-badge" alt="josephjbassey" /></a> </p>
 
-- 🔭 I’m currently working on **Qrator**
+- 🔭 I’m currently working on **CertChain**
 
 - 🌱 I’m currently learning **javascript full stack web development,Software Engineering and Introduction to Computer Science**
 
